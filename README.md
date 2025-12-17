@@ -1,6 +1,4 @@
-# coletaseletiva_vassouras.github.io
 Coleta Seletiva Municipal 
-# Criar versão corrigida do site com funcionamento gráfico garantido (Leaflet + CSS completos)
 
 import zipfile, os
 
